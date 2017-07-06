@@ -155,7 +155,7 @@ header {
   background-size: cover;
   -o-background-size: cover;
   background-position: center;
-  background-image: url('../img/header.jpg');
+  background-image: url('https://blogsimages.adobe.com/creativecloud/files/2015/12/AdobeStock_74800546.jpeg');
   text-align: center;
   color: white;
 }
