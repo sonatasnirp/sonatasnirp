@@ -4,7 +4,9 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */.navbar-default,a{-webkit-transition:all .35s;-moz-transition:all .35s}header,header
 .header-content{position:relative;width:100%;text-align:center}body,html{height:100%;width:100%}
-body{font-family:Merriweather,'Helvetica Neue',Arial,sans-serif;webkit-tap-highlight-color:#222}
+body{font-family:Merriweather,'Helvetica Neue',Arial,sans-serif;webkit-tap-highlight-color:#222; background-color: #ff5851;
+  padding-top: calc(50vh - 80px);
+  text-align: center;}
 .btn,.navbar-default,.navbar-default .navbar-header 
 .navbar-brand,h1,h2,h3,h4,h5,h6{font-family:'Open Sans','Helvetica Neue',Arial,sans-serif}
 hr{border-color:#F05F40;border-width:3px;max-width:50px}hr.light{border-color:#fff}
